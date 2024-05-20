@@ -223,7 +223,7 @@ header {
 
 @media(max-width: 1024px){
     .hero_block .container .right img {
-        width: 100%;
+        width: 490px;
         height: 100%;
     }
 
@@ -297,6 +297,11 @@ header {
 @media (max-width: 480px) {
     .container {
         padding: 20px 10px;
+    }
+
+    .hero_block .container .right img {
+        width: 100%;
+        height: 100%;
     }
 
     .menu.active {
