@@ -208,6 +208,7 @@ header {
     padding-bottom: 1px;
     height: -1px;
     width: max-content;
+    margin: 0 auto;
 }
 
 .info_block_two .container{
@@ -240,6 +241,8 @@ header {
         justify-content: space-between;
         gap: 40px;
         flex-wrap: wrap-reverse;
+        justify-content: center;
+        text-align: center;
     }
 }
 
